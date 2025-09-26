@@ -1,0 +1,5 @@
+{
+  "name": "Film Look AI",
+  "description": "An AI-powered tool to apply professional camera profiles and cinematic film looks to your images, inspired by FilmConvert Nitrate. Upload an image, select a camera profile and a film stock, and let Gemini API generate a beautifully graded result.",
+  "requestFramePermissions": []
+}
